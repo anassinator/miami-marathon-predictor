@@ -12,7 +12,7 @@ Simply run the `jupyter` notebook: [NaiveBayes.ipynb](NaiveBayes.ipynb)
 
 ## Linear Regression
 Simply run the `jupyter` notebook:
-[Linear Regression.ipynb](Linear Regression.ipynb).
+[LinearRegression.ipynb](LinearRegression.ipynb).
 
 ## Logistic Regression
 Simply run [logistic.py](logistic.py).
